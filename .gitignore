@@ -3,6 +3,4 @@ node_modules/
 package-lock.json
 net.test.js
 jest.setup.js
-search.steps.js
-util.js
-search.feature
+
